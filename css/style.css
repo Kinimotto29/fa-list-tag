@@ -1,0 +1,10 @@
+li {
+    display: block;
+}
+li:before {
+    content: "\f0a4";
+    font-family: FontAwesome;
+    display: inline-block;
+    margin-left: -1.3em;
+    width: 1.3em;
+}
